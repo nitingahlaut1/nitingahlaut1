@@ -1,120 +1,116 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=3000&pause=800&color=1A73E8&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Nitin+Gahlaut;Software+Developer+from+India;Frontend+%7C+Backend+%7C+Mobile+Developer" />
-</h1>
-
----
-
-## 🚀 **About Me**
-I'm **Nitin Gahlaut**, a passionate **Software Developer** with hands-on experience building production-ready applications across:
-
-- **Frontend:** React.js, Next.js, React Native  
-- **Backend:** Node.js, NestJS, Express.js  
-- **Mobile Apps:** React Native (Expo)  
-- **Databases:** PostgreSQL, MongoDB  
-- **Cloud:** Microsoft Azure  
-
-Currently working as a **Software Developer Intern at Meetri Infotech**, contributing to real-world projects in **Web**, **Backend APIs**, and **Mobile App Development**.
-
----
-
-## 🛠️ **Tech Stack & Skills**
-
-### 💻 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
-</p>
-
-### 🎨 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
-</p>
-
-### 📱 **Mobile App Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />  
-  <img height="45" src="https://cdn.simpleicons.org/expo/000000" />  
-</p>
-
-### 🛠️ **Backend & API Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img height="45" src="https://cdn.simpleicons.org/nestjs/E0234E" />
-</p>
-
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
-
-### ☁️ **Cloud & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,postman" />
-</p>
-
----
-
-## 🔥 **GitHub Stats**
+<!-- Animated Gradient Header -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nitingahlaut1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitingahlaut1&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Hi+I'm+Nitin+Gahlaut👋;Full-Stack+Developer;React+Native+Developer;Software+Developer+Intern+at+Meetri+Infotech;Welcome+to+my+GitHub+Profile!" />
+</p>
+
+<!-- Title Card with Blue-Purple Gradient -->
+<p align="center">
+  <img width="90%" src="https://img.shields.io/badge/Nitin%20Gahlaut-Full%20Stack%20Developer-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=000&color=7B2FF7">
 </p>
 
 ---
 
-## 📌 **Top Projects**
+## 🚀 About Me  
 
-### 🛒 Shopping Cart  
-**Tech:** React, Redux, Tailwind CSS  
-🔗 Live: https://shpo-cart.netlify.app/
+I'm **Nitin Gahlaut**, a passionate **Full-Stack Developer** specializing in:  
+✨ React.js • Next.js • React Native  
+✨ Node.js • Nest.js • Express  
+✨ MongoDB • PostgreSQL • Prisma  
+✨ Azure Cloud  
+
+I love building **scalable apps, beautiful UIs, real-time systems**, and solving hard problems.
+
+---
+
+# 🎯 Skills & Technologies  
+
+### 💻 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,js,ts,html,css,tailwind" />
+</p>
+
+### ⚙️ **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma" />
+</p>
+
+### 🛠️ **Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,azure" />
+</p>
+
+---
+
+# 🌟 Animated Skill Cards  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitingahlaut1&theme=github_dark" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitingahlaut1&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitingahlaut1&theme=github_dark" height="180" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🛒 Shopping Cart App
+🔗 **Live:** https://shpo-cart.netlify.app/  
+🚀 *React.js + Redux + Tailwind*  
+A fast, clean, responsive shopping cart with global state management.
+
+---
 
 ### 🌦️ Weather App  
-**Tech:** React  
-🔗 Live: https://nitin-weather.netlify.app/
+🔗 **Live:** https://nitin-weather.netlify.app/  
+⚡ Real-time weather info for any location.
 
 ---
 
-## 💼 **Experience**
-
-### 🏢 Meetri Infotech — Software Developer Intern  
-**Aug 2024 – Present**  
-- Developed frontend apps in **React & Next.js**  
-- Built backend services using **Node.js + NestJS**  
-- Implemented **MongoDB** database operations  
-- Worked on real-time production-level projects  
-
-### 🏢 Virtusa — Full Stack Developer Intern  
-**May 2023 – Aug 2023**  
-- Built web apps using **React.js**  
-- Created REST APIs using **Node + Express**  
-- Worked with **MongoDB** and cloud deployment  
+# 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitingahlaut1&theme=dracula&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 🎓 **Education**
-**B.Tech in Computer Science**  
-Uttaranchal Institute of Technology  
-CGPA: **9.71**
+# 🔥 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitingahlaut1&theme=react-dark&area=true" width="95%">
+</p>
 
 ---
 
-## 🏆 **Certifications**
-- Microsoft Azure Fundamentals (AZ-900)  
-- Backend Development — PW Skills  
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitingahlaut1&theme=tokyonight" />
+</p>
 
 ---
 
-## 📬 **Connect With Me**
-<p>
+# 📫 Connect with Me  
+<p align="left">
   <a href="https://www.linkedin.com/in/nitingahlaut">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="mailto:nitingahlaut81@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   <a href="https://github.com/nitingahlaut1">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
 
 ---
 
-## ❤️ **Thanks for visiting my profile!**
+# 👀 Visitor Counter  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nitingahlaut1&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" />
+</p>
 
+---
+
+### 💙 Thanks for Visiting!  
+⭐ *Don't forget to star my repositories!*  
